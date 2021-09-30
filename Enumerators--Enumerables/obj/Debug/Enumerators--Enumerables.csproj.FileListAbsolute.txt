@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Enumerators--Enumerables\Enumerators--Enumerables\bin\Debug\Enumerators--Enumerables.exe.config
+C:\Users\User\source\repos\Enumerators--Enumerables\Enumerators--Enumerables\bin\Debug\Enumerators--Enumerables.exe
+C:\Users\User\source\repos\Enumerators--Enumerables\Enumerators--Enumerables\bin\Debug\Enumerators--Enumerables.pdb
+C:\Users\User\source\repos\Enumerators--Enumerables\Enumerators--Enumerables\obj\Debug\Enumerators--Enumerables.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Enumerators--Enumerables\Enumerators--Enumerables\obj\Debug\Enumerators--Enumerables.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Enumerators--Enumerables\Enumerators--Enumerables\obj\Debug\Enumerators--Enumerables.exe
+C:\Users\User\source\repos\Enumerators--Enumerables\Enumerators--Enumerables\obj\Debug\Enumerators--Enumerables.pdb
